@@ -5,7 +5,7 @@ My name is Rose, a web developer. I'm currently pursuing B-tech degree in comput
 :smiley:
 
 ###  Technologies & Tools
-![](https://img.shields.io/badge/<OS>-<WINDOWST>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<WINDOWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<PYTHON>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<FRAMEWORK>-<DJANGO>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
