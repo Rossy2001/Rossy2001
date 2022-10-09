@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-My name is Rose, a web developer. I'm currently pursuing B-tech degree in computer Science.
+My name is Rose, a web developer, currently pursuing B-tech degree in computer Science.
 :smiley:
 
 ###  Technologies & Tools
